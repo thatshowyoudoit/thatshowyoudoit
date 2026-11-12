@@ -27,7 +27,6 @@ $\color{#7E3F5B}{\textsf{　⠀⠀⠀⠀⠀⠀𝙻𝚒𝚔𝚎,⠀⠀⠀⠀⠀�
 $\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝚌'𝚖𝚘𝚗!  ⠀❜❜   ⏖}}$ 
 
 $\color{#3D4057}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀୨}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{୧}}$
-
   <p> 
  <img align="right" src="https://file.garden/arM-ydxjs_CNywb0/gfstanding.png" alt="gfdiv2" width="75"
   </p>   
