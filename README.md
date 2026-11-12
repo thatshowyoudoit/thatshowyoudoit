@@ -1,6 +1,6 @@
 
   <p>
-<img align="left" src="https://file.garden/arM-ydxjs_CNywb0/gfgraphic1a" alt="gfimg" width="270"
+<img align="left" src="https://file.garden/arM-ydxjs_CNywb0/gfgraphic1a" alt="gfimg" width="250"
   </p>   
 
   <p> 
