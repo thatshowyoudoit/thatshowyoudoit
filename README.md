@@ -9,10 +9,10 @@
 
 
     
-$\color{#7E3F5B}{\textsf{　⠀⠀⠀⠀⠀⠀⠀𓎟}}$ $\color{#3D4057}{\textsf{𓎟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⊂}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{⊃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𓎟}}$ $\color{#7E3F5B}{\textsf{𓎟}}$
+$\color{#7E3F5B}{\textsf{　⠀⠀𓎟}}$ $\color{#3D4057}{\textsf{𓎟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⊂}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{⊃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𓎟}}$ $\color{#7E3F5B}{\textsf{𓎟}}$
 
 
-
+$\color{#F08C66}{\textsf{　⠀⠀⠀⠀⠀⠀}}$
   <p> 
 <img align="left" src="https://file.garden/arM-ydxjs_CNywb0/png1.gif" alt="gfdiv1" width="100"
   </p>   
@@ -28,7 +28,9 @@ $\color{#B63F5F}{\textsf{　⠀　　　　　⠀⠀⠀　⠀𝘎𝘪𝘳𝘳�
 $\color{#7E3F5B}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝙻𝚒𝚔𝚎,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ }}$ 
 $\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝚌'𝚖𝚘𝚗!  ⠀❜❜   ⏖}}$ 
 
+$\color{#3D4057}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀୨}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{୧}}$
 
+   $\color{#F08C66}{\textsf{　⠀⠀⠀⠀⠀⠀}}$
   <p> 
  <img align="right" src="https://file.garden/arM-ydxjs_CNywb0/gfstanding.png" alt="gfdiv2" width="75"
   </p>   
@@ -37,7 +39,7 @@ $\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀�
  <a href="https://bloomingdelilah.straw.page/"><img align="left" src="https://file.garden/arM-ydxjs_CNywb0/strawpage.png" alt="gfdiv2" width="150"
   </p>  
 
-$\color{#3D4057}{\textsf{୨}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{୧}}$
+
 
   <p> 
    <a href="https://bloomingdelilah.atabook.org/"><img align="right" src="https://file.garden/arM-ydxjs_CNywb0/atabook.png" alt="gfdiv2" width="150"
