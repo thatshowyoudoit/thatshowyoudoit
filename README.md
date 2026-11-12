@@ -1,2 +1,4 @@
-<img width="1367" height="2483" alt="image" src="https://github.com/user-attachments/assets/9e980ebe-b76b-427b-8eec-657e198bccd0" />
+<p align="middle">
+<img src="https://file.garden/arM-ydxjs_CNywb0/gfgraphic1a.png" alt="test" width="900"
+</p>
 
