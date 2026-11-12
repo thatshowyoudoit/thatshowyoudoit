@@ -30,8 +30,8 @@ $\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
  <img align="right" src="https://file.garden/arM-ydxjs_CNywb0/gfstanding.png" alt="gfdiv2" width="75"
   </p>   
     <p> 
- <img align="center" href="https://bloomingdelilah.straw.page/" src="https://file.garden/arM-ydxjs_CNywb0/strawpage.png" alt="gfdiv2" width="150"
+ <a href="https://bloomingdelilah.straw.page/"><img align="center" src="https://file.garden/arM-ydxjs_CNywb0/strawpage.png" alt="gfdiv2" width="150"
   </p>  
-   <img align="right" src="https://file.garden/arM-ydxjs_CNywb0/atabook.png" alt="gfdiv2" width="150"
+   <a href="https://bloomingdelilah.atabook.org/"><img align="right" src="https://file.garden/arM-ydxjs_CNywb0/atabook.png" alt="gfdiv2" width="150"
   </p>  
 
