@@ -48,5 +48,5 @@ $\color{#3D4057}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 
   <p> 
-    $\color{#F08C66}{\textsf{　⠀⠀⠀}}$ <img align="right" src="https://file.garden/arM-ydxjs_CNywb0/cutedivider.png" alt="gfdiv1" width="450"
+    $\color{#F08C66}{\textsf{　⠀⠀⠀}}$ <img align="center" src="https://file.garden/arM-ydxjs_CNywb0/cutedivider.png" alt="gfdiv1" width="450"
   </p>   
