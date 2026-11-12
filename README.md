@@ -4,7 +4,7 @@
   </p>   
 
   <p> 
-<img align="center" src="https://file.garden/arM-ydxjs_CNywb0/testdivider.png" alt="gfdiv1" width="604"
+<img align="center" src="https://file.garden/arM-ydxjs_CNywb0/testdivider.png" alt="gfdiv1" width="450"
   </p>   
 
 
