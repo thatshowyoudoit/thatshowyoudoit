@@ -16,15 +16,15 @@ $\color{#F08C66}{\textsf{　⠀⠀⠀⠀⠀⠀}}$
   <p> 
 <img align="left" src="https://file.garden/arM-ydxjs_CNywb0/png1.gif" alt="gfdiv1" width="100"
   </p>   
-    $\color{#F08C66}{\textsf{　⠀⠀⠀⠀⠀⠀}}$
-    $\color{#F3EED9}{\textsf{　⠀⸝⸝⠀⠀⠀}}$
+    $\color{#F08C66}{\textsf{　⠀⠀⠀⠀}}$
+    $\color{#F3EED9}{\textsf{⠀⸝⸝⠀⠀}}$
 $\color{#F3EED9}{\textsf{❛❛ 𝘏𝘪𝘪𝘪 }}$ $\color{#FED96F}{\textsf{𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎!⠀⠀⠀⠀⠀ ⌣  ⏜ ‿  ╮⠀⠀⠀⠀}}$
 
-$\color{#EF8F66}{\textsf{　⠀　　⠀⠀𝙸𝚝'𝚜,}}$ $\color{#F15664}{\textsf{⠀⠀⠀𝚞𝚑𝚑, ⠀⠀⠀⠀⠀⠀}}$
+$\color{#EF8F66}{\textsf{　⠀⠀𝙸𝚝'𝚜,}}$ $\color{#F15664}{\textsf{⠀⠀𝚞𝚑𝚑, ⠀⠀⠀⠀⠀⠀}}$
 
-$\color{#B63F5F}{\textsf{　⠀　　　　　⠀⠀⠀　⠀𝘎𝘪𝘳𝘳𝘭𝘧𝘳𝘳𝘪𝘦𝘯𝘥! (˶ˆᗜˆ˵)⠀⠀⠀  }}$
-$\color{#7E3F5B}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝙻𝚒𝚔𝚎,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ }}$ 
-$\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝚌'𝚖𝚘𝚗!  ⠀❜❜   ⏖}}$ 
+$\color{#B63F5F}{\textsf{　⠀　　⠀⠀⠀　⠀𝘎𝘪𝘳𝘳𝘭𝘧𝘳𝘳𝘪𝘦𝘯𝘥! (˶ˆᗜˆ˵)⠀⠀⠀  }}$
+$\color{#7E3F5B}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝙻𝚒𝚔𝚎,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ }}$ 
+$\color{#3D4057}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝚌'𝚖𝚘𝚗!  ⠀❜❜   ⏖}}$ 
 
 $\color{#3D4057}{\textsf{　⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀୨}}$ $\color{#B63F5F}{\textsf{♡}}$ $\color{#3D4057}{\textsf{୧}}$
 
